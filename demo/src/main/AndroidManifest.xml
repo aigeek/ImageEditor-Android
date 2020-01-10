@@ -26,13 +26,13 @@
         <!--选择相册图片Activity-->
         <activity
             android:name="com.xinlan.imageeditlibrary.picchooser.SelectPictureActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="landscape">
         </activity>
 
         <!--图片编辑Activity-->
         <activity
             android:name="com.xinlan.imageeditlibrary.editimage.EditImageActivity"
-            android:screenOrientation="portrait"
+            android:screenOrientation="landscape"
             android:windowSoftInputMode="adjustPan">
         </activity>
 
